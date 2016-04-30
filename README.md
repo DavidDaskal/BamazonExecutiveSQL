@@ -9,10 +9,10 @@ Below Image shows the result of the previous order seen in total sales and profi
 
 ![alt tag](https://raw.githubusercontent.com/DavidDaskal/BamazonExecutiveSQL/master/deptDataBaseUpdate.png)
 
-Below image shows the bamazonExecutive.js file to view current status of departments 
+Below image shows the bamazonExecutive.js file to view current status of departments and how a new department can be added
 ![alt tag](https://raw.githubusercontent.com/DavidDaskal/BamazonExecutiveSQL/master/bamazonExec.png)
 
-Below image shows how a new department can be added
+Below image shows that a new department has be added to departments table
 ![alt tag](https://raw.githubusercontent.com/DavidDaskal/BamazonExecutiveSQL/master/newDeptAdded.png)
 
 Thanks for Viewing!
