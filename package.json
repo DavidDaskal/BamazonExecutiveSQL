@@ -1,0 +1,14 @@
+{
+  "name": "bamazonexec",
+  "version": "1.0.0",
+  "description": "exec version of bamazon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dd",
+  "license": "ISC",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
